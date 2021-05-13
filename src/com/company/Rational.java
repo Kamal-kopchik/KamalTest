@@ -18,8 +18,8 @@ public class Rational {
         this.val1 = val1;
     }
 
-    public void setVal2(int aval2) {
-        val2 = aval2;
+    public void setVal2(int val2) {
+        this.val2 = val2;
     }
 
     public void setSign(String value) {

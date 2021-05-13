@@ -25,6 +25,6 @@ public class CaesarCipher {
                 arr[j]=(char)a;
             }
             System.out.println(arr);
-        }
+        } //HENLO
     }
 }

@@ -18,14 +18,3 @@ public class Main {
     }
 
 }
-
-/*Singleton singleton= Singleton.create();
-        Singleton singleton1=Singleton.create();
-        Singleton singleton2= Singleton.create();
-        Singleton singleton3=Singleton.create();
-        System.out.println(singleton.getValue());
-        System.out.println(singleton1.getValue());
-        singleton.setValue("Babab");
-        System.out.println(singleton2.getValue());
-        System.out.println(singleton3.getValue());
-        */
